@@ -1,4 +1,4 @@
-# Kit-SmartIOT
+## Kit-SmartIOT
 Use **RPI, ESP and ARDUINO** for your SmartIOT. <br />
 Create your Database with RPI for full control on your Smart IOT. <br />
 > - RPI: for your DataBase with PHP. <br />
